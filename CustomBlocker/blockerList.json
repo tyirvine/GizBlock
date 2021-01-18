@@ -1,0 +1,11 @@
+[
+    {
+        "action": {
+            "type": "css-display-none",
+			"selector": ".bxm4mm-4.fQqUFt > .bxm4mm-0.instream-native-video.instream-native-video--mobile.instream-permalink.jRTmst.js_video-sticky-target"
+        },
+        "trigger": {
+            "url-filter": "https?://(www.)?gizmodo.*"
+        }
+    }
+]
